@@ -2,11 +2,6 @@
     "format": "bnp-be",
     "extension": "csv",
     "settings": {
-        "skip_rows": [
-            0
-        ],
-        "delimiter": ";",
-        "decimal": ",",
         "field_map": {
             "src_account_number": 5,
             "dst_account_holder": 8,
@@ -16,6 +11,7 @@
             "currency": 4,
             "description": 10
         },
-        "date_format": "%d/%m/%Y"
+        "date_format": "%d/%m/%Y",
+        "delimiter": ";"
     }
 }
