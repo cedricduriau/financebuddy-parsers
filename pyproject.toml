@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "financebuddy_parsers"
+name = "financebuddy-parsers"
 version = "0.3.0"
 authors = [
   { name="Cedric Duriau", email="duriau.cedric@live.be" },
