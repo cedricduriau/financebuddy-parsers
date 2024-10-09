@@ -15,10 +15,11 @@ A parser is a tool transforming financial data from a specific bank into a centr
 
 ### Available sources
 
-| Bank                          | Format  | Extension  |
---------------------------------|---------|------------|
-| BNP Parisbas Fortis (Belgium) | bnp-be  | csv        |
-| ING (Belgium)                 | ing-be  | csv        |
+| Bank                          | Format        | Extension  |
+--------------------------------|---------------|------------|
+| Argenta (Belgium)             | argenta-be    | xlsx       |
+| BNP Parisbas Fortis (Belgium) | bnp-be        | csv        |
+| ING (Belgium)                 | ing-be        | csv        |
 
 ## FAQ
 
