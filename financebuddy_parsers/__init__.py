@@ -27,7 +27,6 @@ for basename in os.listdir(DIR_SAMPLES):
     sub = filename.replace("sample_", "")
     parts = sub.split("_")
     format, extension = parts[0], parts[1]
-    print(format, extension)
 
     key = (format, extension)
     path = os.path.join(DIR_SAMPLES, basename)
