@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/pypi-0.4.0-blue)
+![](https://img.shields.io/badge/pypi-0.5.0-blue)
 ![](https://img.shields.io/badge/python-3.12-blue)
 ![](https://img.shields.io/badge/license-GPLv3.0-blue)
 
@@ -32,10 +32,15 @@ A parser is a tool transforming financial data from a specific bank into a centr
 | Argenta                       | 🇧🇪        | argenta-be    | xlsx       |
 | BNP Parisbas Fortis           | 🇧🇪        | bnp-be        | csv        |
 | ING                           | 🇧🇪        | ing-be        | csv        |
+| Revolut                       | 🌐        | revolut       | csv        |
 
 ## FAQ
 
-### Why do some parsers mention a country?
+### What does the globe emoji mean as country for parsers?
+
+Whenever a parser has the globe emoji 🌐 set as value for country, this means that there is only one format for all their supported countries/territories.
+
+### Why is there a specific country mentioned for some parsers?
 
 Some banks have a specific format per country. The format or even the extension could be different. To differenciate them, the country code is embedded in the format for clarity.
 
