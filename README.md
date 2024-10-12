@@ -32,6 +32,7 @@ A parser is a tool transforming financial data from a specific bank into a centr
 | Argenta                       | 🇧🇪        | argenta-be    | xlsx       |
 | BNP Parisbas Fortis           | 🇧🇪        | bnp-be        | csv        |
 | ING                           | 🇧🇪        | ing-be        | csv        |
+| Keytrade                      | 🌐        | keytrade      | csv        |
 | Revolut                       | 🌐        | revolut       | csv        |
 
 ## FAQ
