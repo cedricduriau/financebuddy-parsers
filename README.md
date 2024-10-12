@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/pypi-0.5.0-blue)
+![](https://img.shields.io/badge/pypi-0.6.0-blue)
 ![](https://img.shields.io/badge/python-3.12-blue)
 ![](https://img.shields.io/badge/license-GPLv3.0-blue)
 
@@ -32,6 +32,7 @@ A parser is a tool transforming financial data from a specific bank into a centr
 | Argenta                       | 🇧🇪        | argenta-be    | xlsx       |
 | BNP Parisbas Fortis           | 🇧🇪        | bnp-be        | csv        |
 | ING                           | 🇧🇪        | ing-be        | csv        |
+| Keytrade                      | 🌐        | keytrade      | csv        |
 | Revolut                       | 🌐        | revolut       | csv        |
 
 ## FAQ
